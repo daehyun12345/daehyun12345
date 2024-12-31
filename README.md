@@ -40,6 +40,11 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daehyun12345&theme=radical&exclude={exclude}" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=daehyun12345&theme=radical" />
 </div>
+
+</div>
+<br>
+<br>
+
 <div align="center">
   <div class="badge-container">
     <a href="https://solved.ac/lucky_letter">
@@ -47,7 +52,4 @@
     </a>
     <img src="http://mazandi.herokuapp.com/api?handle=lucky_letter&theme=warm" alt="Mazandi Profile">
   </div>
-</div>
-<br>
-<br>
 
