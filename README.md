@@ -41,7 +41,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=daehyun12345&theme=radical" />
 </div>
 <div align="center">
-    <img src ="http://mazassumnida.wtf/api/v2/generate_badge?boj= lucky_letter)](https://solved.ac/ lucky_letter"/>
+    
 </div>
 <br>
 <br>
