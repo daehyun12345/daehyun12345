@@ -6,6 +6,7 @@
 <div align="center">
   **Languages and Tools**
   <div class="badge-container">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# 뱃지">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 뱃지">
     <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity 뱃지">
   </div>
@@ -40,7 +41,6 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=daehyun12345&theme=radical" />
 </div>
   <div align="center">
-    ![mazandi profile](http://mazandi.herokuapp.com/api?handle={lucky_letter}&theme=warm)
     <img src="http://mazandi.herokuapp.com/api?handle={lucky_letter}&theme=warm"/>
 </div>
 <br>
