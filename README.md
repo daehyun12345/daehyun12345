@@ -45,7 +45,6 @@
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lucky_letter" alt="Baekjoon Profile"/>
     </a>
     <img src="http://mazandi.herokuapp.com/api?handle=lucky_letter&theme=warm" alt="Mazandi Profile">
-
   </div>
 </div>
 <br>
