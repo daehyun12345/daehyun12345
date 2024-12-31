@@ -40,6 +40,8 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daehyun12345&theme=radical&exclude={exclude}" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=daehyun12345&theme=radical" />
 </div>
-
+<div align="center">
+    [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj= lucky_letter)](https://solved.ac/ lucky_letter)
+</div>
 <br>
 <br>
