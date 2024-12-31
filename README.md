@@ -43,7 +43,7 @@
   <div class="badge-container">
     <a href="https://solved.ac/lucky_letter">
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lucky_letter" alt="Baekjoon Profile">
-      <img src="http://mazandi.herokuapp.com/api?handle={lucky_letter}&theme=warm"/>
+      <img src="[http://mazandi.herokuapp.com/api?handle={lucky_letter}&theme=warm](http://mazandi.herokuapp.com/api?handle=example&theme=warm)"/>
     </a>
   </div>
 </div>
