@@ -41,17 +41,3 @@
 </div>
 <div align="center">
 
-
----
-
-<h3 align="center">**Project Mazassumnida**</h3>
-
-### 설치 방법 (Installation)
-
-#### 1. **필수 도구 설치**
-- [Git](https://git-scm.com/downloads): 소스 코드를 클론하기 위해 필요.
-- [Node.js](https://nodejs.org): JavaScript 프로젝트 실행 환경 (v16.x 이상 권장).
-
-#### 2. **저장소 클론**
-```bash
-git clone https://github.com/username/Project-Mazassumnida.git
