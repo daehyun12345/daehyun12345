@@ -39,7 +39,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daehyun12345&theme=radical" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daehyun12345&theme=radical&exclude={exclude}" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=daehyun12345&theme=radical" />
-
+</div>
 <br>
 <br>
 
