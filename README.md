@@ -40,6 +40,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=daehyun12345&theme=radical" />
 </div>
   <div align="center">
+    ![mazandi profile](http://mazandi.herokuapp.com/api?handle={lucky_letter}&theme=warm)
     <img src="http://mazandi.herokuapp.com/api?handle={lucky_letter}&theme=warm"/>
 </div>
 <br>
