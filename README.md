@@ -41,8 +41,8 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=daehyun12345&theme=radical" />
 </div>
   <div class="badge-container">
-    <a href="https://solved.ac/godsasu">
-      <img src="http://mazassumnida.wtf/apisex/v2/generate_badge?boj=godsasu" alt="Baekjoon Profile">
+    <a href="https://solved.ac/lucky_letter">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lucky_letter" alt="Baekjoon Profile">
     </a>
   </div>
 </div>
